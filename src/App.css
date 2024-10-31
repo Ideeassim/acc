@@ -1,0 +1,14 @@
+
+.paperbox h1{
+  text-transform: capitalize;
+}
+
+.b{ 
+ 
+  font-size: 2rem;
+  font-weight: 900;
+  color: rgb(13, 13, 13);
+  
+  cursor: pointer;
+  
+}
